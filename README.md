@@ -18,7 +18,8 @@ Keep in mind that metamask is built similarily to an API and requires payment af
 
 If you want to run your own node you can spin up a Geth node or use Parity's alternative which is easier to use.
 
-Be sure to also check out the cookie store where you can find some of the most delicious tools in the blockchain space
+Be sure to also check out the cookie store at https://truffleframework.com/ where you can find some of the most delicious tools in the blockchain space, including:
+
 truffle -  a development environment
 ganache - a one click spin up a fake blockchain for rapid testing
 drizzle - a tool to connect your front end to your contract
